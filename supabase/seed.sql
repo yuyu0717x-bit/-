@@ -1,0 +1,2 @@
+-- V0.1 intentionally uses localStorage. Supabase schema begins in Phase 2.
+-- Keep this file as the future content seed entry point.
